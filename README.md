@@ -1,5 +1,13 @@
 # WAIC2022Causal
 
+## 竞赛信息
+
+* 比赛名称：2022 WAIC 黑客松九章云极赛道-因果学习和决策优化挑战赛
+* 主办单位：世界人工智能大会组委会办公室
+* 承办单位：九章云极DataCanvas公司、机器之心、上海市人工智能行业协会、天池
+* 链接：https://tianchi.aliyun.com/competition/entrance/532019/rankingList
+* 参赛时间：2022年8月5日-2022年8月25日
+
 ## 分数
 榜一 0.2807
 
