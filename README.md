@@ -9,7 +9,8 @@
 * 参赛时间：2022年8月5日-2022年8月25日
 
 ## 分数
-榜一 0.2807
+榜一 0.2807  
+<img src="https://github.com/liangoy/WAIC2022Causal/blob/main/score.png" width="60%" height="60%" /> 
 
 ## 总体思路
 
